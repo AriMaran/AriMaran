@@ -25,8 +25,6 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 ## Badges
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aricmaran/)](https://www.linkedin.com/in/aricmaran/)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Basic-blue?style=flat-square&logo=python&logoColor=white)
 
 ## Como Contribuir / How to Contribute
 

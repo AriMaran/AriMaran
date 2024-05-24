@@ -15,7 +15,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
 - Linguagens de Programação / Programming Languages: Java, Python, JavaScript, TypeScript
 - Frameworks: Spring Boot, Angular
-- Bancos de Dados / Databases: SQL, Oracle SQL, PostGreSQL
+- Bancos de Dados / Databases: SQL, Oracle SQL, PostgreSQL
 
 ## Estatísticas do GitHub / GitHub Statistics
 

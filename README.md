@@ -6,17 +6,16 @@ Bem-vindo ao meu perfil do GitHub! Me chamo Maran e sou apaixonado por tecnologi
 
 ## Sobre Mim / About Me
 
-- 🔭 Atualmente estou trabalhando na empresa Iguaçu Máquinas / Currently working at Iguaçu Máquinas
-- 🌱 Atualmente estou aprendendo: Java e seus frameworks e Python / Currently learning: Java and its frameworks and Python
+- 🔭 Atualmente estou trabalhando na empresa NSInova / Currently working at NSInova
 - 📫 Como me encontrar: aricmaran@gmail.com / How to reach me: aricmaran@gmail.com
 
 ## Principais Tecnologias / Main Technologies
 
 Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
-- Linguagens de Programação / Programming Languages: Java, Python
-- Frameworks: Spring Boot
-- Bancos de Dados / Databases: SQL, Oracle SQL
+- Linguagens de Programação / Programming Languages: Java, Python, JavaScript, TypeScript
+- Frameworks: Spring Boot, Angular
+- Bancos de Dados / Databases: SQL, Oracle SQL, PostGreSQL
 
 ## Estatísticas do GitHub / GitHub Statistics
 

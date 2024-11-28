@@ -6,8 +6,8 @@ Bem-vindo ao meu perfil do GitHub! Me chamo Maran e sou apaixonado por tecnologi
 
 ## Sobre Mim / About Me
 
-- 🔭 Atualmente estou trabalhando na empresa NSInova / Currently working at NSInova
-- 📫 Como me encontrar: aricmaran@gmail.com / How to reach me: aricmaran@gmail.com
+- 🔭 Atualmente estou trabalhando na empresa Alka / Currently working at Alka
+- 📫 Como me encontrar: aricmaran@proton.me / How to reach me: aricmaran@proton.me
 
 ## Principais Tecnologias / Main Technologies
 

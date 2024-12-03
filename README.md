@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Me chamo Maran e sou apaixonado por tecnologi
 
 ## Sobre Mim / About Me
 
-- 🔭 Atualmente estou trabalhando na empresa Alka / Currently working at Alka
+- 🔭 Atualmente estou trabalhando na empresa Alka / Currently working at Alka Digital Intelligence Services 
 - 📫 Como me encontrar: aricmaran@proton.me / How to reach me: aricmaran@proton.me
 
 ## Principais Tecnologias / Main Technologies

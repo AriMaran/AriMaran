@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Me chamo Maran e sou apaixonado por tecnologi
 
 ## Sobre Mim / About Me
 
-- 🔭 Atualmente estou trabalhando na empresa Alka / Currently working at Alka Digital Intelligence Services 
+- 🔭 Atualmente estou trabalhando como desenvolvedor backend na SmartLy Fabricação de dispositivos inteligentes / Currently working as backend developer at SmartLy smart device manufacturing
 - 📫 Como me encontrar: aricmaran@proton.me / How to reach me: aricmaran@proton.me
 
 ## Principais Tecnologias / Main Technologies
@@ -15,7 +15,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
 - Linguagens de Programação / Programming Languages: Java, Python, JavaScript, TypeScript
 - Frameworks: Spring Boot, Angular
-- Bancos de Dados / Databases: SQL, Oracle SQL, PostgreSQL
+- Bancos de Dados / Databases: SQL, Oracle SQL, PostgreSQL, DynamoDB
 
 ## Estatísticas do GitHub / GitHub Statistics
 

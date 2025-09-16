@@ -17,10 +17,6 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 - Frameworks: Spring Boot, Angular
 - Bancos de Dados / Databases: SQL, Oracle SQL, PostgreSQL, DynamoDB
 
-## Estatísticas do GitHub / GitHub Statistics
-
-![Estatísticas do GitHub / GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AriMaran&show_icons=true&count_private=true&hide=prs&theme=radical)
-
 ## Badges
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aricmaran/)](https://www.linkedin.com/in/aricmaran/)

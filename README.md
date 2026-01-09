@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Me chamo Maran e sou apaixonado por tecnologi
 
 ## Sobre Mim / About Me
 
-- Atualmente estou trabalhando como desenvolvedor backend na SmartLy Fabricação de dispositivos inteligentes / Currently working as backend developer at SmartLy smart device manufacturing
+- Atualmente estou trabalhando como desenvolvedor backend na Confitec / Currently working as backend developer at Confitec
 - Como me encontrar: aricmaran@proton.me / How to reach me: aricmaran@proton.me
 
 ## Principais Tecnologias / Main Technologies
